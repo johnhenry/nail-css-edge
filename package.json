@@ -16,6 +16,8 @@
     "colorguard": "^1.0.1",
     "cssnano": "^3.3.2",
     "cssnext": "^1.8.4",
+    "less": "^2.5.3",
+    "node-sass": "^3.4.2",
     "postcss": "^5.0.12",
     "postcss-extend": "^1.0.1",
     "postcss-import": "^7.1.3",
